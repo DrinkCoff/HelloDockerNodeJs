@@ -1,0 +1,22 @@
+{
+  "name": "hellodockernodejs",
+  "version": "1.0.0",
+  "description": "Hello Docker Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrinkCoff/HelloDockerNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrinkCoff/HelloDockerNodeJs/issues"
+  },
+  "homepage": "https://github.com/DrinkCoff/HelloDockerNodeJs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
